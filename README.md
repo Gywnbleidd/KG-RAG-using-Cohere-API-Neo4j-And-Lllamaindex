@@ -2,7 +2,7 @@
 This project implements a Knowledge Graph-powered Retrieval-Augmented Generation (RAG) pipeline using LlamaIndex, Cohere API, and Neo4j.
 It allows you to index unstructured documents into a knowledge graph, store entities and relationships in Neo4j, and query them using natural language with Cohere’s embeddings and LLMs.
 
-Features
+# Features
 
 Document ingestion: Load .txt (or other supported formats) and process into nodes/triplets.
 
@@ -14,7 +14,7 @@ LLM Querying: Natural language queries answered using Cohere LLMs + Graph contex
 
 Hybrid Retrieval: Combines vector-based search with graph-based reasoning.
 
-ech Stack
+# Tech Stack
 
 LlamaIndex
  – Document indexing and RAG framework
