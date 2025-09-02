@@ -26,3 +26,14 @@ Neo4j
  – Graph database to store and query entities
 
 Python 3.9+
+
+# Requirements
+
+llama-index==0.10.37
+cohere==5.3.4
+neo4j==5.22.0
+python-dotenv==1.0.1
+pandas==2.2.2
+tqdm==4.66.4
+requests==2.32.3
+
